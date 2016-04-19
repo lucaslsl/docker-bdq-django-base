@@ -1,1 +1,2 @@
-# docker-bdq-django-base
+
+## Image with common django dependencies.
